@@ -1,0 +1,32 @@
+div {
+  border: 1px solid black;
+  padding: 16px;
+  margin: 16px;
+  display: inline;
+}
+.inline-block {
+  display: inline-block;
+  width: 40%;
+}
+.table-cell{
+  display: table-cell;
+}
+.column {
+  width: 33.333%;
+  display: inline-block;
+}
+.float-left {
+  float: left;
+  margin-left: 24px;
+}
+.clear-image {
+  clear:both;
+}
+.text-class {
+}
+@media screen and (max-width: 450px) {
+  .text-class {
+  }
+  }
+background-color: goldenred;
+}

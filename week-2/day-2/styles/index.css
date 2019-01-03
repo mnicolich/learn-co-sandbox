@@ -1,0 +1,28 @@
+/*
+1. <h1 style="">
+2. <h1 id="">
+3. <h1 class="">
+4. <h1>
+*/
+
+.red {
+  color: red;
+}
+#blue, #orange {
+  background-color: green;8
+}
+#blue {
+  color:blue;
+}
+.red, .blue {
+  background-color: orange;
+}
+h1, h2, h3, p, span {
+  font-family: Georgia;
+  color: yellow;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  border:1px solid black;
+  border-radius: 5px;
+  
+}
